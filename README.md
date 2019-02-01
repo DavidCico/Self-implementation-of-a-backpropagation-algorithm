@@ -17,11 +17,11 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 ## File descriptions
 <ul>
-<li>The files "wheat_seeds.csv" correspond to the dataset used in the notebook.</li>
+<li>The files "wheat_seeds.csv" corresponds to the dataset used in the notebook.</li>
     
-<li><div align="justify">"Open_conversion_data.py" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</div></li>
+<li><div align="justify">"Open_conversion_data.py" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization. For more information on the different operations, the reader is referred to the Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Open_conversion_data.ipynb">Open_conversion_data.ipynb</a> where the different functions are more elaborated.</div></li>
     
-<li><div align="justify">"Split_dataset.ipynb" is the second Jupyter notebook of the series, where 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</div></li>
+<li><div align="justify">"Algorithm_test_harness.py" 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</div></li>
 
 <li><div align="justify">"Performance_assessment.ipynb" is the third Jupyter notebook of the series in which, accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way.</div></li>
 
