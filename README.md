@@ -20,13 +20,13 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
     
 <li>The files "<em>wheat_seeds.csv</em>" corresponds to the dataset used in the notebook.</li>
     
-<li><p align="justify">"Open_conversion_data.py" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization. For more information on the different operations, the reader is referred to the Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Open_conversion_data.ipynb">Open_conversion_data.ipynb</a> where the different functions are more elaborated.</p></li>
+<li><p align="justify">"<em>Open_conversion_data.py</em>" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization. For more information on the different operations, the reader is referred to the Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Open_conversion_data.ipynb">Open_conversion_data.ipynb</a> where the different functions are more elaborated.</p></li>
     
-<li><p align="justify">"Algorithm_test_harness.py" 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</p></li>
+<li><p align="justify">"<em>Algorithm_test_harness.py</em>" 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</p></li>
 
-<li><p align="justify">"Performance_assessment.py" is a Python script in which accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way. The Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Performance_assessment.ipynb">Performance_assessment.ipynb</a> is available for more details.</p></li>
+<li><p align="justify">"<em>Performance_assessment.py</em>" is a Python script in which accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way. The Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Performance_assessment.ipynb">Performance_assessment.ipynb</a> is available for more details.</p></li>
 
-<li><p align="justify">"Backpropagation_from_scratch.pdf" is the <i>pdf</i> file</p> 
+<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file</p> 
 </ul>
 
 ### Running the files
