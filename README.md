@@ -18,7 +18,7 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 ## File descriptions
 <ul>
     
-<li>The files "wheat_seeds.csv" corresponds to the dataset used in the notebook.</li>
+<li>The files "<em>wheat_seeds.csv</em>" corresponds to the dataset used in the notebook.</li>
     
 <li><p align="justify">"Open_conversion_data.py" contains all initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization. For more information on the different operations, the reader is referred to the Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Open_conversion_data.ipynb">Open_conversion_data.ipynb</a> where the different functions are more elaborated.</p></li>
     
