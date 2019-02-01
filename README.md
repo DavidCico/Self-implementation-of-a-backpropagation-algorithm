@@ -36,7 +36,11 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Backpropagation_model.py</em>" is the Python implementation of the backpropagation model for a classification problem, and following a stochastic gradient descent (SDG) approach.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network.</p> 
+<li><p align="justify">"<em>Wheat_seeds_study.py"</em> is the main Python script, calling the different functions from the scripts above, to perform a classification analysis of the wheat seeds, with the implemented backpropagation model.</p></li>
+
+<li><p align="justify">Wheat_seeds_study.ipynb</p> is the Jupyter notebook version of the "<em>.py</em>" script.</li>
+
+<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network, with application on the wheat seeds dataset.</p> 
 </ul>
 
 ### Running the files
