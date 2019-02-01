@@ -1,5 +1,5 @@
 # Self-implementation-of-a-backpropagation-algorithm
-<p align="justify">The current repository contains different notebooks, in which functions are implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.</p>
+<p align="justify">The current repository contains different scripts, in which functions are implemented in Python from scratch, to carry out a classification problem using a backpropagation algorithm.</p>
 
 ## Getting Started
 
