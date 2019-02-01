@@ -34,9 +34,9 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 <li><p align="justify">"<em>Performance_assessment.py</em>" is a Python script in which accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way. The Jupyter notebook <a href="https://github.com/DavidCico/Simple-functions-for-starting-machine-learning-with-Python/blob/master/Performance_assessment.ipynb">Performance_assessment.ipynb</a> is available for more details.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_model.py</em>"</p> is the Python implementation of the backpropagation model for a classification problem, and following a stochastic gradient descent (SDG) approach.</li>
+<li><p align="justify">"<em>Backpropagation_model.py</em>" is the Python implementation of the backpropagation model for a classification problem, and following a stochastic gradient descent (SDG) approach.</p></li>
 
-<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file</p> 
+<li><p align="justify">"<em>Backpropagation_from_scratch.pdf</em>" is the <i>pdf</i> file with explanation on the different steps required to implement from zero, a backpropagation model for neural network.</p> 
 </ul>
 
 ### Running the files
