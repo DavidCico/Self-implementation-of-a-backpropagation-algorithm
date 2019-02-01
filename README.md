@@ -39,7 +39,7 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 ### Running the files
 
-The different "<em>.py</em>" files need to be placed in the same folder for the main script to be ran. The code is then ready to be used on the wheat seeds dataset and just requires running the following command:
+The different "<em>.py</em>" files need to be placed in the same folder for the main script to be run. The code is then ready to be used on the wheat seeds dataset and just requires running the following command:
 
     python Wheat_seeds_study.py
 
