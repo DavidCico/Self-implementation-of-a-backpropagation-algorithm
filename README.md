@@ -28,6 +28,10 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 ### Running the files
 
+The code is ready to be used and just requires running the following command:
+
+    python Main.py
+
 <p align="justify">The notebooks can be <b>directly opened on GitHub</b>. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
 
     jupyter notebook
