@@ -29,23 +29,6 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 ### Running the files
 
-<p align="justify">The notebooks can be <b>directly opened on GitHub</b>. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
-
-    jupyter notebook
-
-<p align="justify">This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):</p>
-
-    $ jupyter notebook
-    [I 11:47:00.830 NotebookApp] Serving notebooks from local directory: C:\Users\EC-PM-3
-    [I 11:47:00.830 NotebookApp] The Jupyter Notebook is running at:
-    [I 11:47:00.830 NotebookApp] http://localhost:8888/?token=d22181d47f4826316a37161bb8c8469d77a5851bf9ab2c1f
-    [I 11:47:00.830 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-
-It will then open your default web browser to this URL.
-
-<p align="justify">When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.</p>
-
-For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>.
 
 ## Contributing
 
